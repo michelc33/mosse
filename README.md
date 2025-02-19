@@ -59,5 +59,4 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 ## Contribution
 Contributions are welcome! Feel free to submit issues or pull requests to improve this tracker.
 
----
-Developed with ❤️ using OpenCV & Python.
+
